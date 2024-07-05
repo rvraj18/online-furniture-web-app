@@ -78,13 +78,6 @@ Stripe Interface for cart payment
 ![stripe payments page](https://github.com/shirish001/online-furniture-shop/assets/96719015/fc275cfd-d2e1-4a40-b031-d2c4deb1cdc5)
 
 
-
-
-=======
 # online-furniture-web-app
 About This project is an online furniture store featuring a robust catalog of furniture items, user authentication, shopping cart functionality, order management, and secure payment processing with the Stripe API (in test mode). The application is built using HTML, CSS, Node.js with Express, MongoDB, and EJS templating.
->>>>>>> a85c84ca38a5607111fc2f1ea150ef5948d04d83
-=======
-# online-furniture-web-app
-About This project is an online furniture store featuring a robust catalog of furniture items, user authentication, shopping cart functionality, order management, and secure payment processing with the Stripe API (in test mode). The application is built using HTML, CSS, Node.js with Express, MongoDB, and EJS templating.
->>>>>>> a85c84ca38a5607111fc2f1ea150ef5948d04d83
+
