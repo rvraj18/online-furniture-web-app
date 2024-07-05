@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🪑 Online Furniture Shop
 
 This project is an online furniture store showcasing a variety of furniture items for sale. Users can browse through a wide range of products with detailed descriptions, prices, and images, providing them with a seamless shopping experience. The application is built using modern web technologies and follows best practices in web development.
@@ -80,6 +81,10 @@ Stripe Interface for cart payment
 
 
 
+=======
+# online-furniture-web-app
+About This project is an online furniture store featuring a robust catalog of furniture items, user authentication, shopping cart functionality, order management, and secure payment processing with the Stripe API (in test mode). The application is built using HTML, CSS, Node.js with Express, MongoDB, and EJS templating.
+>>>>>>> a85c84ca38a5607111fc2f1ea150ef5948d04d83
 =======
 # online-furniture-web-app
 About This project is an online furniture store featuring a robust catalog of furniture items, user authentication, shopping cart functionality, order management, and secure payment processing with the Stripe API (in test mode). The application is built using HTML, CSS, Node.js with Express, MongoDB, and EJS templating.
