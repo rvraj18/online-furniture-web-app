@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # 🪑 Online Furniture Shop
 
 This project is an online furniture store showcasing a variety of furniture items for sale. Users can browse through a wide range of products with detailed descriptions, prices, and images, providing them with a seamless shopping experience. The application is built using modern web technologies and follows best practices in web development.
