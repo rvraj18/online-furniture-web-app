@@ -42,7 +42,7 @@ This project is an online furniture store showcasing a variety of furniture item
 ### Installation
 
 1. **Clone the repository**:
-    git clone https://github.com/shirish001/online-furniture-shop.git
+    git clone https://github.com/rvraj18/online-furniture-web-app.git
     cd online-furniture-shop
 
 2. **Install dependencies**:
